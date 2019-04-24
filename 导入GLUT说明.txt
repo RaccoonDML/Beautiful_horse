@@ -1,0 +1,6 @@
+Google "glut"下载glut for Windows的文件包"glut-3.7.6-bin.zip (117 KB)"
+或者本项目中的"glut_for_windows.rar"
+解开压缩包后
+将其中的"glut32.dll"文件拷入到系统目录：%WinDir%\System (你的机器安装windows系统的目录，比如：C:\Windows\system)；
+将其中的"glut32.lib"文件拷入到安装目录：$(MSDevDir)\..\..\VC98\lib
+将其中的"glut32.h"文件拷入到安装目录：$(MSDevDir)\..\..\VC98\include\GL
