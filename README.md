@@ -1,7 +1,7 @@
 # Beautiful_horse
-Using OpenGL to show a 3D horse model
+-- Using OpenGL to show a 3D horse model
 
-To run present program(main.cpp) you should:
+- To run present program(main.cpp) you should:
 
 1.Read 导入GLUT说明.txt.
 
